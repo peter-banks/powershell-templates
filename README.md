@@ -7,7 +7,7 @@ My personal collection of templates
 [petr.be](https://petr.be/powershell)
 
 ## Azure ARM
-[here](./powershell/)
+[here](./azure/)
 
 [petr.be](https://petr.be/azure)
 
