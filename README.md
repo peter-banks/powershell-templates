@@ -1,7 +1,13 @@
 # Templates
+My personal collection of templates
 
 ## PowerShell
+[here](./azure/)
 
+[petr.be](https://petr.be/powershell)
 
 ## Azure ARM
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates
+[here](./powershell/)
+
+[petr.be](https://petr.be/azure)
+
